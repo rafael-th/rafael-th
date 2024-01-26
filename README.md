@@ -2,7 +2,7 @@
 🔴🟡🟢
 
   <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWpiMXBmdHp6NzNoN2dzeGx1Y2xyZDN1cmlrcjNqNjI2eXE5dmkwMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/CuuSHzuc0O166MRfjt/giphy.gif" width=300px/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWpiMXBmdHp6NzNoN2dzeGx1Y2xyZDN1cmlrcjNqNjI2eXE5dmkwMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/CuuSHzuc0O166MRfjt/giphy.gif" width=200px/>
 </div>
 
 
